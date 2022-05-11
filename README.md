@@ -1,5 +1,5 @@
 # Web3_basic_example_collection
-You can use Web3.js to build DAPP a few basic example smart javascript files are provided here
+You can use Web3.js to build DAPP a few basic example javascript files are provided here
 
 You can learn how to use web3.js with these examples!
 
